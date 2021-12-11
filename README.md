@@ -1,6 +1,10 @@
 # Toontown-Nametag
 Toontown-Nametag is a tool for creating Toontown Online/Toontown Rewritten-style nametags in Panda3D. It contains a function, createNametag(), which will return a NodePath of a Toontown-styled nametag/nameplate, complete with text.
 
+There are two python files: `toonNametag.py` and `example.py`. `toonNametag.py` contains the main function for assembling the nametag and `example.py` is an example file that renders a scene containing a nametag. You can modify or take code from these files as you please.
+
+There are also two files miscellaneous files: `ImpressBT.ttf` and `panel.bam`. This is the font and model used for the nametag. The program requires these to function, but they can be replaced.
+
 # Prerequisites
 Panda3D
 
