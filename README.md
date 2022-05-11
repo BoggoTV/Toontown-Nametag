@@ -5,6 +5,8 @@ There are two python files: `toonNametag.py` and `example.py`. `toonNametag.py` 
 
 There are also two files miscellaneous files: `ImpressBT.ttf` and `panel.bam`. This is the font and model used for the nametag. The program requires these to function, but they can be replaced.
 
+[NOTE: I forgot to mention this initially, this code is adapted/kinda stolen from the old Toontown Rewritten leaked source code. I take no credit for this, beyond making it work outside of that source.]
+
 # Prerequisites
 Panda3D
 
